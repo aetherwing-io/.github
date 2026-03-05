@@ -18,7 +18,7 @@ See the [FCP repo](https://github.com/aetherwing-io/fcp) for the full spec.
 
 ### Other
 
-| Repo | What it does |
-|------|--------------|
-| [mish](https://github.com/aetherwing-io/mish) | LLM-native shell — structured output, error diagnostics, and process control [ohitsmish.com](https://ohitsmish.com)|
-| [slipstream](https://github.com/aetherwing-io/slipstream) | In-memory file editing daemon for LLM agent workflows |
+| Repo | What it does | Website |
+|------|--------------| --------|
+| [mish](https://github.com/aetherwing-io/mish) | LLM-native shell — structured output, error diagnostics, and process control | [ohitsmish.com](https://ohitsmish.com)|
+| [slipstream](https://github.com/aetherwing-io/slipstream) | In-memory file editing daemon for LLM agent workflows | [slipstream.sh](https://slipstream.sh)
